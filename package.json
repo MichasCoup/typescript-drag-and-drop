@@ -2,7 +2,7 @@
   "name": "drag_and_drop",
   "version": "0.0.0",
   "description": "drag and drop typescript project",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "lite-server"
